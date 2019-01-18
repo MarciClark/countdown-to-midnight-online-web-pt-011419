@@ -1,9 +1,10 @@
+def coundtown
+end
+
 x = l
 while x < 10 
 puts "{x} seconds"
 x -= 10
-
-def countdown
 end
 
 it 'returns HAPPY NEW YEAR!' do
