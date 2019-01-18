@@ -1,11 +1,10 @@
-def #countdown 
-end
-
 x = l
 while x < 10 
 puts "{x} seconds"
 x -= 10
 end
+
+
 
 
 it 'returns HAPPY NEW YEAR!' do
