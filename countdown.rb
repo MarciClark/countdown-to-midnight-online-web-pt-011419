@@ -6,4 +6,7 @@ x -= 10
 def countdown
 end
 
-
+it 'returns HAPPY NEW YEAR!' do
+      expect(countdown(10)).to eq "HAPPY NEW YEAR!"
+    end
+  end
