@@ -4,7 +4,7 @@ puts "{x} seconds"
 x -= 10
 end
 
-def #countdown 
+def countdown 
 end
 
 it 'returns HAPPY NEW YEAR!' do
