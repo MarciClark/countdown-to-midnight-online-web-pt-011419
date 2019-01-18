@@ -8,7 +8,7 @@ def countdown
 end
 
 def countdown_with_sleep
-  
+  (sleep)
 
 it 'returns HAPPY NEW YEAR!' do
       expect(countdown(10)).to eq "HAPPY NEW YEAR!"
