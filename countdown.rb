@@ -4,6 +4,8 @@ puts "{x} seconds"
 x -= 10
 end
 
+def coundtown
+end
 
 
 it 'returns HAPPY NEW YEAR!' do
